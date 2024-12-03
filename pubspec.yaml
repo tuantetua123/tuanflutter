@@ -1,0 +1,50 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/phongcanh.jpg
+    - assets/7.jpg
+    - assets/17.jpg
+    - assets/27.jpg
+    - assets/siuuuu.jpg
+    - assets/Goat.jpg
+    - assets/Yoojin.png
+    - assets/cc.png
+    - assets/face.jpg
+    - assets/talk.jpg
+    - assets/line.jpg
+    - assets/logo.png
+    - assets/cloud.png
+    - assets/maybay.png
+    - assets/line.png
+    - assets/Tuan Tran 1aa.jpg
+    - assets/Henry.png
+    - assets/Kimjun.png
+    - assets/line.png
+    - assets/Linh.jpg
+    - assets/Matt.png
+    - assets/Rectangle 325.png
+    - assets/dinhdoclap.png
+    - assets/drg bridge trip.png
+    - assets/quoctugiam.png
+    - assets/hoguom.png
+    - assets/lang.png
+    - assets/chuaducba.png
